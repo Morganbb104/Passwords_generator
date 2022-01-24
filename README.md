@@ -22,6 +22,6 @@ SO THAT I can create a strong password that provides greater security
 ## Screenshot 
 
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/images/03-javascript-homework-demo.png)
+![The Password Generator application displays a red button to "Generate Password".](https://github.com/Morganbb104/Passwords_generator/blob/main/Assets/images/03-javascript-homework-demo.png)
 
 
