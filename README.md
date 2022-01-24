@@ -20,7 +20,7 @@ SO THAT I can create a strong password that provides greater security
 ```
 
 ## Screenshot 
-![image](https://user-images.githubusercontent.com/33117688/150750627-100e2e26-5d0b-4695-9a10-4a1e3670fde9.png)
+![image](https://github.com/Morganbb104/Passwords_generator/blob/main/Assets/images/03-javascript-homework-demo.png)
 
 
 
